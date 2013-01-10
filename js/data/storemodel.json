@@ -1,0 +1,33 @@
+{
+    "storeID":"1",
+    "name":"Walmart",
+    "movies":[
+        {
+            "movieID":"1",
+            "name":"Bag It"
+        },
+        {
+            "movieID":"2",
+            "name":"Lost Boy: The Next Chapter"
+
+        },
+        {
+            "movieID":"3",
+            "name":"To Live &amp; Ride in L.A."
+
+        }],
+    "games": [
+        {
+            "title": "Battelfield 3",
+            "system": "PC"
+        },
+        {
+            "title": "Left 4 Dead",
+            "system": "PC"
+        },
+        {
+            "title": "Assasins Creed 3",
+            "system": "PC"
+        }
+    ]
+}
